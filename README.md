@@ -53,7 +53,8 @@
 - If usage
 - Homework: Search type conversions, switch - case, logic structures
 ### 03.12.2019 Tuesday
-- A
+- If, if - else, if - else if - else
+- Switch case
 ### 04.12.2019 Wednesday
 - A
 ## Week 3
