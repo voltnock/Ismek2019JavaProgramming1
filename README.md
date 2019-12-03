@@ -54,6 +54,7 @@
 - Homework: Search type conversions, switch - case, logic structures
 ### 03.12.2019 Tuesday
 - If, if - else, if - else if - else
+- nested if clauses
 - Switch case
 ### 04.12.2019 Wednesday
 - A
