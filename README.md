@@ -51,13 +51,13 @@
 - Operators
 - Arithmetic Operations with Numbers and Arithmetic Operators
 - If usage
-- Homework: Search type conversions, switch - case, logic structures
 ### 03.12.2019 Tuesday
 - If, if - else, if - else if - else
 - Nested if clauses
 - Switch case: switch, case, break, default
 ### 04.12.2019 Wednesday
 - Type conversions, explicit, implicit
+- String Methods
 ## Week 3
 ### 09.12.2019 Monday
 - A
