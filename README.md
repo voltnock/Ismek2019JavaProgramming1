@@ -57,7 +57,7 @@
 - Nested if clauses
 - Switch case: switch, case, break, default
 ### 04.12.2019 Wednesday
-- A
+- Type conversions, explicit, implicit
 ## Week 3
 ### 09.12.2019 Monday
 - A
