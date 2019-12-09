@@ -61,7 +61,7 @@
 ## Week 3
 ### 09.12.2019 Monday
 - Basic Java Classes:
-- Math, Random, Date, Calender, SimpleDateFormat
+- Math, Random, LocalDate, Date, DayofWeek, Calender, GregorianCalendar, SimpleDateFormat, chrono.Chronology
 ### 10.12.2019 Tuesday
 - 
 ### 11.12.2019 Wednesday
