@@ -60,42 +60,42 @@
 - String Methods
 ## Week 3
 ### 09.12.2019 Monday
-- A
+- 
 ### 10.12.2019 Tuesday
-- A
+- 
 ### 11.12.2019 Wednesday
-- A
+- 
 ## Week 4
 ### 16.12.2019 Monday
-- A
+- 
 ### 17.12.2019 Tuesday
-- A
+- 
 ### 18.12.2019 Wednesday
-- A
+- 
 ## Week 5
 ### 23.12.2019 Monday
-- A
+- 
 ### 24.12.2019 Tuesday
-- A
+- 
 ### 25.12.2019 Wednesday
-- A
+- 
 ## Week 6
 ### 30.12.2019 Monday
-- A
+- 
 ### 31.12.2019 Tuesday
-- A
+- 
 ### 01.01.2020 Wednesday (Public Holiday)
 ## Week 7
 ### 06.01.2020 Monday
-- A
+- 
 ### 07.01.2020 Tuesday
-- A
+- 
 ### 08.01.2020 Wednesday
-- A
+- 
 ## Week 8
 ### 13.01.2020 Monday
-- A
+- 
 ### 14.01.2020 Tuesday
-- A
+- 
 ### 15.01.2020 Wednesday
-- A
+- 
