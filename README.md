@@ -64,7 +64,8 @@
 - Math, Random, LocalDate, Date, DayOfWeek, Calendar, GregorianCalendar, SimpleDateFormat, chrono.Chronology
 - Exception Handling (try - catch - finally)
 ### 10.12.2019 Tuesday
-- 
+- Error Handling in Java:
+- Throwable: Exceptions or Errors
 ### 11.12.2019 Wednesday
 - 
 ## Week 4
