@@ -68,6 +68,8 @@
 - Throwable: Exceptions or Errors
 - Throws (exception)
 - Arrays
+- Loops (for, foreach, while, do while)
+- return and break keywords
 ### 11.12.2019 Wednesday
 - 
 ## Week 4
