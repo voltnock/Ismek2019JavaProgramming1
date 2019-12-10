@@ -66,6 +66,8 @@
 ### 10.12.2019 Tuesday
 - Error Handling in Java:
 - Throwable: Exceptions or Errors
+- Throws (exception)
+- Arrays
 ### 11.12.2019 Wednesday
 - 
 ## Week 4
