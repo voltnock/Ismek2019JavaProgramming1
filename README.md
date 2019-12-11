@@ -1,31 +1,30 @@
 # Ismek Java Programming 1 Course
-- 25.11.2019 - 15.01.2020 Mon-Wed 14.30-17.30
+- 25.11.2019 - 15.01.2020 Monday - Wednesday 14.30 - 17.30
 - %80 attendance required
 ## Week 1
 ### 25.11.2019 Monday
 - Java Programming 1 Student Election Exam
 ### 26.11.2019 Tuesday
-- Get to know each other
+- Getting to know each other
 - Course operation information
 - Github usage
 - Adding github repository
 - Adding a file to github
 - Java setup (Java JDK 8 update 211 and then Eclipse Java IDE 2019-09)
 ### 27.11.2019 Wednesday
-- Şerif Güngör contact@serifgungor.com
-- https://www.dijitalders.com/icerik/44/2445/jre_jdk_jvm_nedir.html
-- https://www.tutorialspoint.com/java/index.htm
-- https://www.javatpoint.com/java-tutorial
+- Lecturer: Şerif Güngör contact@serifgungor.com
 - https://www.github.com/serifgungor
 - https://www.youtube.com/serifgungor
 - https://www.codeshare.io/javadersleri
+- https://www.dijitalders.com/icerik/44/2445/jre_jdk_jvm_nedir.html
+- https://www.tutorialspoint.com/java/index.htm
+- https://www.javatpoint.com/java-tutorial
 - Java Fundamentals
 - Java IDE's: Eclipse IDE: PHP, Java
 - Netbeans IDE
 - Intellij Idea: Python > PyCharm IDE, Android > Android Studio
 - Code Editors: Notepad++, Dreamweaver, Visual Studio Code
-- Java (Language) Syntax (Rules)
-- Class name rules:
+- Java (Language) Syntax (Rules): Java Class name rules:
 - Can't start with a number.
 - Shouldn't include Turkish characters (çğıöşüÇĞİÖŞÜ). Because on devices which don't support Turkish characters, error occurs on compilation time.
 - Can't include special characters (!'^+-?*) or space character.
