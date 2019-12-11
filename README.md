@@ -68,7 +68,7 @@
 - Throws (exception)
 - Arrays
 - Loops (for, foreach, while, do while)
-- return and break keywords
+- return, break and continue keywords
 ### 11.12.2019 Wednesday
 - 
 ## Week 4
