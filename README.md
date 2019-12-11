@@ -70,7 +70,7 @@
 - Loops (for, foreach, while, do while)
 - return, break and continue keywords
 ### 11.12.2019 Wednesday
-- 
+- Loops, nested for loops
 ## Week 4
 ### 16.12.2019 Monday
 - 
