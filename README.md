@@ -1,6 +1,6 @@
 # Ismek Java Programming 1 Course
 - 25.11.2019 - 15.01.2020 Monday - Wednesday 14.30 - 17.30
-- %80 attendance required
+- At least %80 attendance required
 ## Week 1
 ### 25.11.2019 Monday
 - Java Programming 1 Student Election Exam
