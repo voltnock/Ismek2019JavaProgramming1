@@ -73,7 +73,8 @@
 - Loops, nested for loops
 ## Week 4
 ### 16.12.2019 Monday
-- Loops with String methods and operations with numbers
+- Loops with String methods
+- Loops including operations with numbers
 ### 17.12.2019 Tuesday
 - 
 ### 18.12.2019 Wednesday
