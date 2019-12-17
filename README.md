@@ -83,6 +83,10 @@
 - Methods can receive arguments (parameters) in their paranthesis.
 - There can't be any other codes later than return line in the method's scope, if return is used.
 - Return can't be used in a void method.
+- Method Access Identifiers: Public, Private, Protected
+- Public methods can be called from classes other than the class the method is inside.
+- Private methods can only be called from their own classes.
+- Protected methods can be called from their child classes.
 ### 18.12.2019 Wednesday
 - 
 ## Week 5
