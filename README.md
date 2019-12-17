@@ -86,8 +86,8 @@
 - Return keyword should be used only once in the method, if the method is not void.
 - Method Access Identifiers: Public, Private, Protected
 - Public methods can be called from classes other than the class the method is inside.
+- Protected methods can be called from their own classes and their child classes.
 - Private methods can only be called from their own classes.
-- Protected methods can be called from their child classes.
 ### 18.12.2019 Wednesday
 - 
 ## Week 5
