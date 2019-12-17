@@ -87,6 +87,7 @@
 - Public methods can be called from classes other than the class the method is inside.
 - Private methods can only be called from their own classes.
 - Protected methods can be called from their child classes.
+- Return keyword should be used only once in the method, if the method is not void.
 ### 18.12.2019 Wednesday
 - 
 ## Week 5
