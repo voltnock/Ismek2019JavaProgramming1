@@ -81,6 +81,8 @@
 - If a method is not void, it must return a value.
 - Methods return values with return keyword.
 - Methods can receive arguments (parameters) in their paranthesis.
+- There can't be any other codes later than return line in the method's scope, if return is used.
+- Return can't be used in a void method.
 ### 18.12.2019 Wednesday
 - 
 ## Week 5
