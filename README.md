@@ -76,7 +76,11 @@
 - Loops with String methods
 - Loops including operations with numbers
 ### 17.12.2019 Tuesday
-- 
+- Methods: Methods are structures doing operations.
+- Methods can return a value. If a method is not returning a value, its type is void.
+- If a method is not void, it must return a value.
+- Methods return values with return keyword.
+- Methods can receive arguments (parameters) in their paranthesis.
 ### 18.12.2019 Wednesday
 - 
 ## Week 5
