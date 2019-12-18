@@ -90,6 +90,7 @@
 - Private methods can only be called from their own classes.
 ### 18.12.2019 Wednesday
 - There can be more than one method with the same name in the same class, given that their parameters list (their signature) are not identical. This is called method overloading.
+- File operations, File class
 ## Week 5
 ### 23.12.2019 Monday
 - 
