@@ -91,7 +91,7 @@
 ### 18.12.2019 Wednesday
 - There can be more than one method with the same name in the same class, given that their parameters list (their signature) are not identical. This is called method overloading.
 - File operations, File class
-- Research ArrayLists, Lists, Generic Lists for next week
+- Research ArrayLists, Lists, Generic Lists, Collections; List, Set, Map for next week
 ## Week 5
 ### 23.12.2019 Monday
 - 
