@@ -89,7 +89,7 @@
 - Protected methods can be called from their own classes and their child classes.
 - Private methods can only be called from their own classes.
 ### 18.12.2019 Wednesday
-- 
+- There can be more than one method with the same name in the same class, given that their parameters list are not identical. This is called method overloading.
 ## Week 5
 ### 23.12.2019 Monday
 - 
