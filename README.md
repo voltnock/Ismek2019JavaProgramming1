@@ -24,20 +24,20 @@
 - Netbeans IDE
 - Intellij Idea: Python > PyCharm IDE, Android > Android Studio
 - Code Editors: Notepad++, Dreamweaver, Visual Studio Code
-
+- -----
 - Java (Language) Syntax (Rules): Java Class name rules:
 - Can't start with a number.
 - Shouldn't include Turkish characters (çğıöşüÇĞİÖŞÜ). Because on devices which don't support Turkish characters, error occurs on compilation time.
 - Can't include special characters (!'^+-?*) or space character.
 - Can't include ( - ) dash character but can include underscore ( _ ).
 - Its first character must be particularly a capital letter.
-
+- -----
 - What is a class? They are pages where we can write Java codes.
 - Wrong usage > Correct usage
 - Java Programming 1 > JavaProgramming1
 - Java-Programming-1 > JavaProgramming1
 - javaprogramming1 > Javaprogramming1
-
+- -----
 - Abbreviations:
 - JDK: Java Development Kit (Required for developing Java applications.)
 - NDK: Native Development Kit
