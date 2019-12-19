@@ -87,6 +87,7 @@
 - There can't be any other codes later than return line in the method's scope, if return is used.
 - Return keyword can't be used in a void method.
 - Return keyword should be used only once in the method, if the method is not void.
+- -----
 - Method Access Identifiers: Public, Private, Protected
 - Public methods can be called from classes other than the class the method is inside.
 - Protected methods can be called from their own classes and their child classes.
