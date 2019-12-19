@@ -25,6 +25,7 @@
 - Intellij Idea: Python > PyCharm IDE, Android > Android Studio
 - Code Editors: Notepad++, Dreamweaver, Visual Studio Code
 - -----
+- What is a class? They are pages where we can write Java codes.
 - Java (Language) Syntax (Rules): Java Class name rules:
 - Can't start with a number.
 - Shouldn't include Turkish characters (çğıöşüÇĞİÖŞÜ). Because on devices which don't support Turkish characters, error occurs on compilation time.
@@ -32,7 +33,6 @@
 - Can't include ( - ) dash character but can include underscore ( _ ).
 - Its first character must be particularly a capital letter.
 - -----
-- What is a class? They are pages where we can write Java codes.
 - Wrong usage > Correct usage
 - Java Programming 1 > JavaProgramming1
 - Java-Programming-1 > JavaProgramming1
