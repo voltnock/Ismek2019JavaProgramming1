@@ -112,7 +112,7 @@
 ### 24.12.2019 Tuesday
 - LinkedList, HashSet, HashMap
 ### 25.12.2019 Wednesday
-- Vector, Stack
+- Vector, Stack, Queue
 ## Week 6
 ### 30.12.2019 Monday
 - 
