@@ -121,7 +121,7 @@
 - Polymorphism
 - Abstraction
 - -----
-- Creating a class
+- Creating classes
 - Creating and using methods
 - Interface
 - Working with Java Packets
@@ -131,7 +131,7 @@
 - super keyword
 - -----
 - Object Oriented Programming languages:
-- Java, Python, C#, C++, PHP, Objective-C, Smalltalk, Delphi, Swift, Perl, Puby
+- Java, Python, C#, C++, PHP, Objective-C, Smalltalk, Delphi, Swift, Perl, Ruby
 - Object Based Programming languages:
 - Ada, JavaScript, Visual Basic
 ### 31.12.2019 Tuesday
