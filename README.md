@@ -115,7 +115,25 @@
 - Vector, Stack, Queue, Deque, Hashtable
 ## Week 6
 ### 30.12.2019 Monday
-- 
+- Object Oriented Programming principles:
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- -----
+- Creating a class
+- Creating and using methods
+- Interface
+- Working with Java Packets
+- override keyword
+- Overloading
+- this keyword
+- super keyword
+- -----
+- Object Oriented Programming languages:
+- Java, Python, C#, C++, PHP, Objective-C, Smalltalk, Delphi, Swift, Perl, Puby
+- Object Based Programming languages:
+- Ada, JavaScript, Visual Basic
 ### 31.12.2019 Tuesday
 - 
 ### 01.01.2020 Wednesday (Public Holiday)
