@@ -135,8 +135,7 @@
 - Object Based Programming languages:
 - Ada, JavaScript, Visual Basic
 ### 31.12.2019 Tuesday
-- Encapsulation example
-- 
+- Encapsulation examples with ArrayList and with multiple classes
 ### 01.01.2020 Wednesday (Public Holiday)
 ## Week 7
 ### 06.01.2020 Monday
