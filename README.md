@@ -135,6 +135,7 @@
 - Object Based Programming languages:
 - Ada, JavaScript, Visual Basic
 ### 31.12.2019 Tuesday
+- Encapsulation example
 - 
 ### 01.01.2020 Wednesday (Public Holiday)
 ## Week 7
