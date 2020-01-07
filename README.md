@@ -139,7 +139,7 @@
 ### 01.01.2020 Wednesday (Public Holiday)
 ## Week 7
 ### 06.01.2020 Monday
-- 
+- Inheritance examples
 ### 07.01.2020 Tuesday
 - 
 ### 08.01.2020 Wednesday
