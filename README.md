@@ -143,7 +143,7 @@
 - extends
 - @Override, super
 ### 07.01.2020 Tuesday
-- Poylymorphism
+- Polymorphism
 ### 08.01.2020 Wednesday
 - 
 ## Week 8
