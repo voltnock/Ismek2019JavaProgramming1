@@ -144,8 +144,12 @@
 - @Override, super
 ### 07.01.2020 Tuesday
 - Polymorphism
+- Abstraction
+- abstract classes
+- abstract methods
+- interface
 ### 08.01.2020 Wednesday
-- 
+-
 ## Week 8
 ### 13.01.2020 Monday
 - 
