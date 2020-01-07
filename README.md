@@ -140,6 +140,7 @@
 ## Week 7
 ### 06.01.2020 Monday
 - Inheritance examples
+- @Override, super
 ### 07.01.2020 Tuesday
 - 
 ### 08.01.2020 Wednesday
