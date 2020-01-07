@@ -148,6 +148,7 @@
 - abstract classes
 - abstract methods
 - interface
+- implements
 ### 08.01.2020 Wednesday
 -
 ## Week 8
