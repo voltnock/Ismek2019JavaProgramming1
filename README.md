@@ -150,7 +150,9 @@
 - interface
 - implements
 ### 08.01.2020 Wednesday
--
+- Xampp software, runned Apache and MySQL via Xampp, localhost/phpmyadmin, accessing MySQL database
+- Database systems: list and comparison
+- 
 ## Week 8
 ### 13.01.2020 Monday
 - 
