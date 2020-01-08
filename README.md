@@ -153,6 +153,7 @@
 - Xampp software, runned Apache and MySQL via Xampp, localhost/phpmyadmin, accessing MySQL database
 - Database systems: list and comparison
 - SQL queries
+- Use utf8_general_ci for MySQL database (Turkish characters compatible)
 ## Week 8
 ### 13.01.2020 Monday
 - 
