@@ -157,6 +157,7 @@
 ## Week 8
 ### 13.01.2020 Monday
 - Database operations in Java
+- Jar files for connection -> Build Path -> Add to Build Path
 ### 14.01.2020 Tuesday
 - 
 ### 15.01.2020 Wednesday
