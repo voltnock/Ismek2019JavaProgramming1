@@ -163,4 +163,5 @@
 ### 14.01.2020 Tuesday
 - Database operations in Java with MySQL and SQLite
 ### 15.01.2020 Wednesday
-- Java garbage collector
+- Java garbage collector, finalize
+- Multi-threading
