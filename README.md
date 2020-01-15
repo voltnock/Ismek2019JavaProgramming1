@@ -104,7 +104,7 @@
 - Map: HashMap, TreeMap, WeakHashMap, LinkedHashMap, IdentityHashMap
 - Vector
 - Stack
-- HashTable
+- Hashtable
 - Queue
 - Deque
 - -----
