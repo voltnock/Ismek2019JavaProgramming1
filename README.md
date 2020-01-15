@@ -161,6 +161,6 @@
 - Eclipse Java -> project tree -> refresh
 - In Eclipse Java, Jar files for connection -> Build Path -> Add to Build Path
 ### 14.01.2020 Tuesday
-- 
+- Database operations in Java with MySQL and SQLite
 ### 15.01.2020 Wednesday
-- 
+- Java garbage collector
