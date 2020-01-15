@@ -165,3 +165,4 @@
 ### 15.01.2020 Wednesday
 - Java garbage collector, finalize
 - Multi-threading
+- Thread, Runnable, Handler
